@@ -1,0 +1,11 @@
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+Z:\Semester 03 (AI)\C#\2505E3\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe.config
