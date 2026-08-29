@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.NETWebApp2
+build_property.RootNamespace = ASP.NETWebApp2
+build_property.ProjectDir = S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ASP.NETWebApp2\ASP.NETWebApp2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ASP.NETWebApp2\ASP.NETWebApp2
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/Admin/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/Shared/_WebLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9XZWJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/User/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/User/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[S:/Semester 03 (AI)/ASP.NET CORE MVC/2505E3/ASP.NETWebApp2/ASP.NETWebApp2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kmmhha2p3y
