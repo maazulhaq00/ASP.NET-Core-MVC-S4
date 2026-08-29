@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\tempdata\\tempdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5576D6F8-3B41-43AF-9706-8E213FD3D835}|TempData\\TempData.csproj|solutionrelative:tempdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TempData\\Models\\Employee.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Models\\Employee.cs",
+              "RelativeToolTip": "TempData\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:10:37.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TempData\\Models\\ErrorViewModel.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TempData\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:10:36.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "TempData\\Models\\StudentModel.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Models\\StudentModel.cs",
+              "RelativeToolTip": "TempData\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:10:27.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TempData\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TempData\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T09:33:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TempData\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TempData\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T09:31:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "TempData\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "TempData\\Views\\Home\\Index1.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T09:17:40.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TempData\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TempData\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T09:15:36.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TempData\\Views\\Home\\About.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TempData\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T09:20:05.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TempData\\Views\\Home\\Index.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\TempData\\TempData\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TempData\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T10:27:37.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

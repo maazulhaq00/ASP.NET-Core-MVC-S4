@@ -1,0 +1,16 @@
+﻿@{
+
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @Html.ActionLink("Contact Page1", "Contact", "Home", new { id = 15})
+    <br />
+
+    <a href="@Url.Action("Contact", "Home", new { id = 16} )">Contact Page 2</a>
+    <br />
+
+    <a asp-action="Contact", asp-controller="Home" asp-route-id="17" >Contact Page 3</a>
+
+
+</div>

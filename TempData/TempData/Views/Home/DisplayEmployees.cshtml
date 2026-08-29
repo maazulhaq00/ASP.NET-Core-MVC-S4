@@ -1,0 +1,54 @@
+﻿@model List<Employee> 
+@* @model TempData.Models.Employee *@
+@{
+}
+
+<div class="text-center">
+    <h1 class="display-4">Employees</h1>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Designation</th>
+                <th scope="col">Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var emp in Model)
+            {
+                <tr>
+                    <th scope="row">@emp.EmpId</th>
+                    <td>@emp.EmpName</td>
+                    <td>@emp.Designation</td>
+                    <td>@emp.Salary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+@* <div class="text-center">
+    <h1 class="display-4">Employees</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Designation</th>
+                <th scope="col">Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">@Model.EmpId</th>
+                <td>@Model.EmpName</td>
+                <td>@Model.Designation</td>
+                <td>@Model.Salary</td>
+            </tr>
+        </tbody>
+    </table>
+
+</div> *@

@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+
+    var student = ViewData["student"] as StudentModel;
+    var studentList = ViewData["studentList"] as List<StudentModel>;
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    <p>Roll# @student.rollNo</p>
+    <p>Name: @student.Name</p>
+    <p>Gender: @student.Gender</p>
+    <p>Standrad @student.Standard</p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Gender</th>
+                <th scope="col">Class</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var std in studentList)
+            {
+                <tr>
+                    <th scope="row">@std.rollNo</th>
+                    <td>@std.Name</td>
+                    <td>@std.Gender</td>
+                    <td>@std.Standard</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    @* <p>@ViewData["data1"]</p>
+    <p>@ViewBag.data2</p>
+    <p>@TempData["data3"]</p>*@
+</div>
