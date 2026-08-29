@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\4. ModelW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A461534A-313A-459A-9CB1-FF99758AD3B1}|ModelW\\ModelW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\4. modelw\\modelw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A461534A-313A-459A-9CB1-FF99758AD3B1}|ModelW\\ModelW.csproj|solutionrelative:modelw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A461534A-313A-459A-9CB1-FF99758AD3B1}|ModelW\\ModelW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\4. modelw\\modelw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A461534A-313A-459A-9CB1-FF99758AD3B1}|ModelW\\ModelW.csproj|solutionrelative:modelw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A461534A-313A-459A-9CB1-FF99758AD3B1}|ModelW\\ModelW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\4. modelw\\modelw\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A461534A-313A-459A-9CB1-FF99758AD3B1}|ModelW\\ModelW.csproj|solutionrelative:modelw\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\4. ModelW\\ModelW\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ModelW\\Models\\StudentModel.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\4. ModelW\\ModelW\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ModelW\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T09:28:53.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\4. ModelW\\ModelW\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelW\\Views\\Home\\Index.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\4. ModelW\\ModelW\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModelW\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T09:28:14.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\4. ModelW\\ModelW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelW\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\4. ModelW\\ModelW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelW\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T09:26:37.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
