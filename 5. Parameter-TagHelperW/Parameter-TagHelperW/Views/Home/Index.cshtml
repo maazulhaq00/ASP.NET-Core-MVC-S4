@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @Html.ActionLink("Product 1", "Product", "Home", new { id = 1, name="xSmart Phone", price="12000" })
+    <br />
+
+    <a href="@Url.Action("Product", "Home", new { id = 2, name = "xSmart Ref", price = "42000" })">Product 2</a>
+    <br />
+
+    <a asp-controller="Home" asp-action="Product" asp-route-id="3" asp-route-name="xSmart Watch" asp-route-price="9500">Product 3</a>
+
+
+</div>

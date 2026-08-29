@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Parameter-TagHelperW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047B340B-CA5A-4B1F-AD24-830CD8E4BA6B}|Parameter-TagHelperW\\Parameter-TagHelperW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\parameter-taghelperw\\parameter-taghelperw\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047B340B-CA5A-4B1F-AD24-830CD8E4BA6B}|Parameter-TagHelperW\\Parameter-TagHelperW.csproj|solutionrelative:parameter-taghelperw\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047B340B-CA5A-4B1F-AD24-830CD8E4BA6B}|Parameter-TagHelperW\\Parameter-TagHelperW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\parameter-taghelperw\\parameter-taghelperw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{047B340B-CA5A-4B1F-AD24-830CD8E4BA6B}|Parameter-TagHelperW\\Parameter-TagHelperW.csproj|solutionrelative:parameter-taghelperw\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047B340B-CA5A-4B1F-AD24-830CD8E4BA6B}|Parameter-TagHelperW\\Parameter-TagHelperW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\parameter-taghelperw\\parameter-taghelperw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047B340B-CA5A-4B1F-AD24-830CD8E4BA6B}|Parameter-TagHelperW\\Parameter-TagHelperW.csproj|solutionrelative:parameter-taghelperw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Parameter-TagHelperW\\Parameter-TagHelperW\\Views\\Home\\Product.cshtml",
+              "RelativeDocumentMoniker": "Parameter-TagHelperW\\Views\\Home\\Product.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Parameter-TagHelperW\\Parameter-TagHelperW\\Views\\Home\\Product.cshtml",
+              "RelativeToolTip": "Parameter-TagHelperW\\Views\\Home\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T09:42:17.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Parameter-TagHelperW\\Parameter-TagHelperW\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Parameter-TagHelperW\\Views\\Home\\Index.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Parameter-TagHelperW\\Parameter-TagHelperW\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Parameter-TagHelperW\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T09:41:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Parameter-TagHelperW\\Parameter-TagHelperW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Parameter-TagHelperW\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Parameter-TagHelperW\\Parameter-TagHelperW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Parameter-TagHelperW\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T09:41:18.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
