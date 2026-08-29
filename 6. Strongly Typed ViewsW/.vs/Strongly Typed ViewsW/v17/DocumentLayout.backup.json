@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\strongly typed viewsw\\strongly typed viewsw\\views\\home\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|solutionrelative:strongly typed viewsw\\views\\home\\displayemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\strongly typed viewsw\\strongly typed viewsw\\views\\home\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|solutionrelative:strongly typed viewsw\\views\\home\\displayemployees.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\strongly typed viewsw\\strongly typed viewsw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|solutionrelative:strongly typed viewsw\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\strongly typed viewsw\\strongly typed viewsw\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|solutionrelative:strongly typed viewsw\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\strongly typed viewsw\\strongly typed viewsw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|solutionrelative:strongly typed viewsw\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\strongly typed viewsw\\strongly typed viewsw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA8C4ED-9867-4694-BBA8-EC6A7FEF0EAE}|Strongly Typed ViewsW\\Strongly Typed ViewsW.csproj|solutionrelative:strongly typed viewsw\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Strongly Typed ViewsW\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Strongly Typed ViewsW\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T12:17:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayEmployees.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Views\\Home\\DisplayEmployees.cshtml",
+              "RelativeDocumentMoniker": "Strongly Typed ViewsW\\Views\\Home\\DisplayEmployees.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Views\\Home\\DisplayEmployees.cshtml",
+              "RelativeToolTip": "Strongly Typed ViewsW\\Views\\Home\\DisplayEmployees.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T12:16:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayEmployee.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Views\\Home\\DisplayEmployee.cshtml",
+              "RelativeDocumentMoniker": "Strongly Typed ViewsW\\Views\\Home\\DisplayEmployee.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Views\\Home\\DisplayEmployee.cshtml",
+              "RelativeToolTip": "Strongly Typed ViewsW\\Views\\Home\\DisplayEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T12:15:13.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Strongly Typed ViewsW\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Strongly Typed ViewsW\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:13:45.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Strongly Typed ViewsW\\Models\\Employee.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Models\\Employee.cs",
+              "RelativeToolTip": "Strongly Typed ViewsW\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:13:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Strongly Typed ViewsW\\Models\\ErrorViewModel.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\Strongly Typed ViewsW\\Strongly Typed ViewsW\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Strongly Typed ViewsW\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T12:12:57.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

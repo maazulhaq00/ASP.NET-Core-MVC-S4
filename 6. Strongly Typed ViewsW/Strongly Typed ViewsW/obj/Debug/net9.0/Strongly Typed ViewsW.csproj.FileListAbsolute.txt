@@ -1,0 +1,99 @@
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\appsettings.Development.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\appsettings.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\Strongly Typed ViewsW.staticwebassets.runtime.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\Strongly Typed ViewsW.staticwebassets.endpoints.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\Strongly Typed ViewsW.exe
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\Strongly Typed ViewsW.deps.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\Strongly Typed ViewsW.runtimeconfig.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\Strongly Typed ViewsW.dll
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\bin\Debug\net9.0\Strongly Typed ViewsW.pdb
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.GeneratedMSBuildEditorConfig.editorconfig
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.AssemblyInfoInputs.cache
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.AssemblyInfo.cs
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.csproj.CoreCompileInputs.cache
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.MvcApplicationPartsAssemblyInfo.cache
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.RazorAssemblyInfo.cache
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.RazorAssemblyInfo.cs
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.sourcelink.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\scopedcss\bundle\Strongly Typed ViewsW.styles.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\scopedcss\projectbundle\Strongly Typed ViewsW.bundle.scp.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\xmatmepgxv-b9sayid5wm.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\rvfgbxe6oh-61n19gt1b8.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\tkb991yhkz-xtxxf3hu2r.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\7pljsucew8-bqjiyaj88i.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\wu6q48tbip-c2jlpeoesf.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\cp4cx9w5h8-erw9l3u2r3.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\blf8fhcftz-aexeepp0ev.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\y75jgpkor9-d7shbmvgxk.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\1optxhwdbd-ausgxo2sd3.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\nrd0jepm07-k8d9w2qqmf.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\1kk40laefe-cosvhxvwiu.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\2pjksr8a5z-ub07r2b239.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\79hqsw8nm2-fvhpjtyr6v.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\meip050wsn-b7pk76d08c.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\vbdmd4rdjy-fsbi9cje9m.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\93myk8l0gp-rzd6atqjts.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\jwkj22eouh-ee0r1s7dh0.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\4qu6km7xch-dxx9fxp4il.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\22umyuzh2k-jd9uben2k1.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\4qb83f33yh-khv3u5hwcm.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\nbr8jb7f4l-r4e9w2rdcm.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\0nhff0aw1q-lcd1t2u6c8.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\a6t4l6cmrj-c2oey78nd0.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\bj0lpulkxt-tdbxkamptv.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\5eah0ed5jf-j5mq2jizvt.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\zrbmw95ks3-06098lyss8.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\rx7yxvvz87-nvvlpmu67g.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\68uz83vmw4-s35ty4nyc5.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\10kj9pp8l2-pj5nd1wqec.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\v00jvr58rn-46ein0sx1k.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\rsgdy6ttuy-v0zj4ognzu.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\7qiuunfbq0-37tfw0ft22.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\jqi4tzi4d9-hrwsygsryq.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\a7dzyc1w30-pk9g2wxc8p.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\3oe4vx6i8a-ft3s53vfgj.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\akvifhlgll-6cfz1n2cew.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\y36nbjqe0r-6pdc2jztkx.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\8usx7sf5vi-493y06b0oq.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\8mvxza40i0-iovd86k7lj.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\66c022xq25-vr1egmr9el.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\dl7hav6qci-kbrnm935zg.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\68nro451hc-jj8uyg4cgr.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\nsax4gcg7r-y7v9cxd14o.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\7iake5y8p2-notf2xhcfb.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\cfm9y9s0ag-h1s4sie4z3.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\p8h9h9klj8-63fj8s7r0e.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\sjqlyo419z-0j3bgjxly4.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\iznsnepumz-47otxtyo56.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\4qywgaful8-4v8eqarkd7.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\oo2gir9z1w-356vix0kms.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\43o92ojk54-83jwlth58m.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\e43k4q8o98-mrlpezrjn3.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\g2ovj06h3m-lzl9nlhx6b.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\jvszdik6pl-ag7o75518u.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\hd4ajo6pij-x0q3zqp4vz.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\5zesewajj6-0i3buxo5is.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\q4qrem1iro-o1o13a6vjx.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\ti172q3s1c-ttgo8qnofa.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\tn4v623epp-2z0ns9nrw6.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\9oxzrwqdx6-muycvpuwrr.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\3lz2nyfufy-87fc7y1x7t.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\7i3zpw0a1d-mlv21k5csn.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\vwrrs2yzoj-rzd41lnljl.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\compressed\b5juh7n3ft-rzd41lnljl.gz
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets.build.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets.development.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets\msbuild.Strongly Typed ViewsW.Microsoft.AspNetCore.StaticWebAssets.props
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets\msbuild.Strongly Typed ViewsW.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets\msbuild.build.Strongly Typed ViewsW.props
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Strongly Typed ViewsW.props
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Strongly Typed ViewsW.props
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets.pack.json
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.dll
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\refint\Strongly Typed ViewsW.dll
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.pdb
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\Strongly Typed ViewsW.genruntimeconfig.cache
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Strongly Typed ViewsW\Strongly Typed ViewsW\obj\Debug\net9.0\ref\Strongly Typed ViewsW.dll
