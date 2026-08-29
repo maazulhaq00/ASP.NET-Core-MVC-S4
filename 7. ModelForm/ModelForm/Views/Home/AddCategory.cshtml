@@ -1,0 +1,64 @@
+﻿@model CategoryModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="container">
+    <h3>Add Category</h3>
+
+    <form method="post" asp-controller="Home" asp-action="ShowCategory">
+
+        <div class="mb-3">
+            <label for="CategoryName" class="form-label">Category Name</label>
+            <input asp-for="CategoryName" class="form-control" id="CategoryName">
+        </div>
+        <div class="mb-3">
+            <label for="CategoryDesc" class="form-label">Category Description</label>
+            <input asp-for="CategoryDescription" class="form-control" id="CategoryDesc">
+        </div>
+        <div class="mb-3">
+            <label for="ProductCount" class="form-label">Products in the category</label>
+            <input asp-for="ProductCount" class="form-control" id="ProductCount">
+        </div>
+
+        <button type="submit" class="btn btn-dark">
+            Add
+        </button>
+
+    </form>
+
+</div>
+
+
+
+
+
+
+@* <div class="container">
+    <h3>Add Category</h3>
+
+    <form method="post" asp-controller="Home" asp-action="ShowCategory">
+
+        <div class="mb-3">
+            <label for="CategoryName" class="form-label">Category Name</label>
+            <input type="text" name="CategoryName" class="form-control" id="CategoryName">
+        </div>
+        <div class="mb-3">
+            <label for="CategoryDesc" class="form-label">Category Description</label>
+            <input type="text" name="CategoryDesc" class="form-control" id="CategoryDesc">
+        </div>
+        <div class="mb-3">
+            <label for="ProductCount" class="form-label">Products in the category</label>
+            <input type="number" name="ProductCount" class="form-control" id="ProductCount">
+        </div>
+
+        <button type="submit" class="btn btn-dark">
+            Add
+        </button>
+
+    </form>
+
+</div> *@

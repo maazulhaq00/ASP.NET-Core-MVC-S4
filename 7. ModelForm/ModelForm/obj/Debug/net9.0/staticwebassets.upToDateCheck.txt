@@ -1,0 +1,125 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\css\site.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\favicon.ico
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\js\site.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery-validation\dist\additional-methods.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery-validation\LICENSE.md
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery\dist\jquery.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery\dist\jquery.min.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery\dist\jquery.min.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery\dist\jquery.slim.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery\dist\jquery.slim.min.js
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery\dist\jquery.slim.min.map
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\ModelForm\ModelForm\wwwroot\lib\jquery\LICENSE.txt
