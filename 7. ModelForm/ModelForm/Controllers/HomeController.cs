@@ -22,6 +22,7 @@ namespace ModelForm.Controllers
         {
             return View();
         }
+        [HttpGet]
         public IActionResult AddCategory()
         {
             return View();
@@ -38,10 +39,24 @@ namespace ModelForm.Controllers
 
         //    return View();
         //}
+        [HttpGet]
+        public string ShowCategory()
+        {
+            return "Incorrect route access";
+        }
 
+        [HttpPost]
         public IActionResult ShowCategory(CategoryModel category)
         {
-            return View(category);
+            if (ModelState.IsValid)
+            {
+                return View(category);
+            }
+            else
+            {
+                return View("AddCategory", category);
+            }
+
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

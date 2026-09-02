@@ -14,14 +14,27 @@
         <div class="mb-3">
             <label for="CategoryName" class="form-label">Category Name</label>
             <input asp-for="CategoryName" class="form-control" id="CategoryName">
+            <span style="color:red" asp-validation-for="CategoryName" ></span>
         </div>
         <div class="mb-3">
             <label for="CategoryDesc" class="form-label">Category Description</label>
             <input asp-for="CategoryDescription" class="form-control" id="CategoryDesc">
+            <span style="color:red" asp-validation-for="CategoryDescription"></span>
+
         </div>
         <div class="mb-3">
             <label for="ProductCount" class="form-label">Products in the category</label>
             <input asp-for="ProductCount" class="form-control" id="ProductCount">
+            <span style="color:red" asp-validation-for="ProductCount"></span>
+
+        </div>
+        <div class="mb-3">
+            <select class="form-select" aria-label="Default select example" 
+            asp-for="CategoryParent" asp-items="Html.GetEnumSelectList<ParentCategory>()">
+                <option selected>Select Category Parent</option>
+            </select>
+            <span style="color:red" asp-validation-for="CategoryParent"></span>
+
         </div>
 
         <button type="submit" class="btn btn-dark">

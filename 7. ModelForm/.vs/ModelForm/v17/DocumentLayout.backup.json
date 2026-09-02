@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\",
+  "WorkspaceRootPath": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\7. ModelForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\modelform\\modelform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\7. modelform\\modelform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|solutionrelative:modelform\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\modelform\\modelform\\views\\home\\showcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|solutionrelative:modelform\\views\\home\\showcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\modelform\\modelform\\views\\home\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\7. modelform\\modelform\\views\\home\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|solutionrelative:modelform\\views\\home\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\modelform\\modelform\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\7. modelform\\modelform\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7533412B-2F50-48B1-B595-B95A47FD2327}|ModelForm\\ModelForm.csproj|solutionrelative:modelform\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -25,65 +21,73 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 175,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 224,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShowCategory.cshtml",
-              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\ModelForm\\Views\\Home\\ShowCategory.cshtml",
-              "RelativeDocumentMoniker": "ModelForm\\Views\\Home\\ShowCategory.cshtml",
-              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\ModelForm\\Views\\Home\\ShowCategory.cshtml",
-              "RelativeToolTip": "ModelForm\\Views\\Home\\ShowCategory.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-28T11:25:49.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AddCategory.cshtml",
-              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\ModelForm\\Views\\Home\\AddCategory.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\7. ModelForm\\ModelForm\\Views\\Home\\AddCategory.cshtml",
               "RelativeDocumentMoniker": "ModelForm\\Views\\Home\\AddCategory.cshtml",
-              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\ModelForm\\Views\\Home\\AddCategory.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\7. ModelForm\\ModelForm\\Views\\Home\\AddCategory.cshtml",
               "RelativeToolTip": "ModelForm\\Views\\Home\\AddCategory.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-28T10:23:31.753Z",
+              "WhenOpened": "2026-08-31T11:05:11.753Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 189,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\7. ModelForm\\ModelForm\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "ModelForm\\Models\\CategoryModel.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\7. ModelForm\\ModelForm\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "ModelForm\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:05:13.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "70d9abc6-0e56-49f3-bcd5-32a58046cef6",
+        "Display": 0,
+        "X": 758,
+        "Y": 494,
+        "Width": 615,
+        "Height": 373,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\ModelForm\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\7. ModelForm\\ModelForm\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ModelForm\\Controllers\\HomeController.cs",
-              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\ModelForm\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\7. ModelForm\\ModelForm\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ModelForm\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCkAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T11:25:17.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryModel.cs",
-              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\ModelForm\\Models\\CategoryModel.cs",
-              "RelativeDocumentMoniker": "ModelForm\\Models\\CategoryModel.cs",
-              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\ModelForm\\ModelForm\\Models\\CategoryModel.cs",
-              "RelativeToolTip": "ModelForm\\Models\\CategoryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T10:16:44.195Z",
+              "WhenOpened": "2026-08-31T11:05:15.897Z",
               "EditorCaption": ""
             }
           ]
