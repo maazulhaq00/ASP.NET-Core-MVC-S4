@@ -12,7 +12,10 @@
     <form method="post" asp-controller="Home" asp-action="ShowCategory">
 
         <div class="mb-3">
-            <label for="CategoryName" class="form-label">Category Name</label>
+            <label for="CategoryName" class="form-label" asp-for="CategoryName" >
+
+
+            </label>
             <input asp-for="CategoryName" class="form-control" id="CategoryName">
             <span style="color:red" asp-validation-for="CategoryName" ></span>
         </div>
@@ -29,9 +32,10 @@
 
         </div>
         <div class="mb-3">
-            <select class="form-select" aria-label="Default select example" 
-            asp-for="CategoryParent" asp-items="Html.GetEnumSelectList<ParentCategory>()">
-                <option selected>Select Category Parent</option>
+            <label for="CategoryParent" class="form-label">Select Parent Category</label>
+
+            <select class="form-select" aria-label="Default select example" id="CategoryParent" asp-for="CategoryParent" asp-items="Html.GetEnumSelectList<ParentCategory>()">
+                <option selected value="" >Select Category Parent</option>
             </select>
             <span style="color:red" asp-validation-for="CategoryParent"></span>
 
