@@ -10,5 +10,27 @@ CREATE TABLE Students (
 );
 
 INSERT INTO Students VALUES (1, 'Hassan', 20, 'hassan@gmail.com')
+SELECT * FROM Students;
+
+========================================
 
 Scaffold-DbContext "Server=LAB21-10; Initial Catalog=SchoolDB; User Id=sa; Password=aptech; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+=============================================================
+
+DROP TABLE Students;
+
+CREATE TABLE Students (
+	StudentId INT PRIMARY KEY IDENTITY(1,1),
+	StudentName VARCHAR(255) NOT NULL,
+	StudentAge INT NOT NULL,
+	StudentEmail VARCHAR(255) NOT NULL,
+);
+
+INSERT INTO Students(StudentName, StudentAge, StudentEmail) VALUES ('Hassan', 20, 'hassan@gmail.com')
+INSERT INTO Students(StudentName, StudentAge, StudentEmail) VALUES ('Muhammad', 21, 'muhammad@gmail.com')
+
+
+====================================> AFTER CHANGES IN DB STRUCTURE
+
+Scaffold-DbContext "Server=LAB21-10; Initial Catalog=SchoolDB; User Id=sa; Password=aptech; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force

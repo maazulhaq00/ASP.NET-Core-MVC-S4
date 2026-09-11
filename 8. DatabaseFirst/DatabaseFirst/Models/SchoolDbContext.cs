@@ -25,9 +25,8 @@ public partial class SchoolDbContext : DbContext
     {
         modelBuilder.Entity<Student>(entity =>
         {
-            entity.HasKey(e => e.StudentId).HasName("PK__Students__32C52B99BB7D9F6B");
+            entity.HasKey(e => e.StudentId).HasName("PK__Students__32C52B99B634182F");
 
-            entity.Property(e => e.StudentId).ValueGeneratedNever();
             entity.Property(e => e.StudentEmail)
                 .HasMaxLength(255)
                 .IsUnicode(false);

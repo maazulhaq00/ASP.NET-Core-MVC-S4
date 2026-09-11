@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using DatabaseFirst.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace DatabaseFirst.Controllers
 {
@@ -15,11 +16,49 @@ namespace DatabaseFirst.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var studentData = _context.Students.ToList();
+            var studentData = await _context.Students.ToListAsync();
             return View(studentData);
         }
+
+        public IActionResult AddStudent()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddStudent(Student student)
+        {
+            if (ModelState.IsValid)
+            {
+                await _context.Students.AddAsync(student);
+                await _context.SaveChangesAsync();
+
+                return RedirectToAction("Index");
+            }
+
+            return View(student);
+
+        }
+
+        //public async Task<IActionResult> EditStudent(int id)
+        //{
+        //    var studentData = await _context.Students.ToListAsync();
+        //    return View(studentData);
+        //}
+        public async Task<IActionResult> DeleteStudent(int id)
+        {
+            var student = await _context.Students.FindAsync(id);
+
+            if(student != null)
+            {
+                _context.Students.Remove(student);
+            }
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
+
 
         public IActionResult Privacy()
         {
