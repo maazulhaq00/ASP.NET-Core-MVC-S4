@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirst\\appsettings.json",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-04T11:46:32.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-04T11:42:56.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\SchoolDbContext.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T11:41:15.789Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatabaseFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T11:36:14.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

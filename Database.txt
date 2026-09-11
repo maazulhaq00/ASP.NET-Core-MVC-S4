@@ -1,0 +1,14 @@
+CREATE DATABASE SchoolDB;
+
+USE SchoolDB;
+
+CREATE TABLE Students (
+	StudentId INT PRIMARY KEY,
+	StudentName VARCHAR(255) NOT NULL,
+	StudentAge INT NOT NULL,
+	StudentEmail VARCHAR(255) NOT NULL,
+);
+
+INSERT INTO Students VALUES (1, 'Hassan', 20, 'hassan@gmail.com')
+
+Scaffold-DbContext "Server=LAB21-10; Initial Catalog=SchoolDB; User Id=sa; Password=aptech; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
