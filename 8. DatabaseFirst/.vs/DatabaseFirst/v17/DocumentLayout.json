@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\views\\home\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\views\\home\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\views\\home\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\views\\home\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|s:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\8. databasefirst\\databasefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2C4EFA-27A3-4F94-AD0E-604D832534B6}|DatabaseFirst\\DatabaseFirst.csproj|solutionrelative:databasefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,59 +33,70 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 216,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SchoolDbContext.cs",
-              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Models\\SchoolDbContext.cs",
-              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\SchoolDbContext.cs",
-              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Models\\SchoolDbContext.cs",
-              "RelativeToolTip": "DatabaseFirst\\Models\\SchoolDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T10:23:27.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DatabaseFirst\\Views\\Home\\Index.cshtml",
-              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DatabaseFirst\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-09T10:11:42.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Program.cs",
-              "RelativeDocumentMoniker": "DatabaseFirst\\Program.cs",
-              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Program.cs",
-              "RelativeToolTip": "DatabaseFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T11:51:06.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Views\\Home\\EditStudent.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\EditStudent.cshtml",
+              "RelativeToolTip": "DatabaseFirst\\Views\\Home\\EditStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T10:42:51.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\appsettings.json",
               "RelativeDocumentMoniker": "DatabaseFirst\\appsettings.json",
               "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\appsettings.json",
               "RelativeToolTip": "DatabaseFirst\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-09T10:24:00.626Z",
+              "WhenOpened": "2026-09-11T10:38:24.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T10:08:58.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Models\\Student.cs",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Models\\Student.cs",
+              "RelativeToolTip": "DatabaseFirst\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:07:37.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirst\\Views\\Home\\AddStudent.cshtml",
+              "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Views\\Home\\AddStudent.cshtml",
+              "RelativeToolTip": "DatabaseFirst\\Views\\Home\\AddStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T10:07:14.725Z",
               "EditorCaption": ""
             }
           ]
@@ -92,15 +107,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DatabaseFirst\\Controllers\\HomeController.cs",
               "ToolTip": "S:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\8. DatabaseFirst\\DatabaseFirst\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DatabaseFirst\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAiwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T11:30:19.215Z",
+              "WhenOpened": "2026-09-11T11:28:10.188Z",
               "EditorCaption": ""
             }
           ]

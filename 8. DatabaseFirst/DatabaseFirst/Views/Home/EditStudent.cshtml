@@ -4,11 +4,10 @@
 }
 
 <div class="container">
-    <h1 class="display-4">Add Student</h1>
+    <h1 class="display-4">Edit Student</h1>
 
-    <form method="post" asp-controller="Home" asp-action="AddStudent" >
-      
-
+    <form method="post" asp-controller="Home" asp-action="EditStudent" >
+        <input class="form-control" asp-for="StudentId" type="hidden" >
         <div class="mb-3">
             <label class="form-label" asp-for="StudentName"></label>
             <input class="form-control" asp-for="StudentName">
@@ -25,7 +24,7 @@
             <span asp-validation-for="StudentEmail" style="color: red;"></span>
         </div>
 
-        <button type="submit" class="btn btn-dark" >Add</button>
+        <button type="submit" class="btn btn-dark" >Update</button>
     </form>
 
 

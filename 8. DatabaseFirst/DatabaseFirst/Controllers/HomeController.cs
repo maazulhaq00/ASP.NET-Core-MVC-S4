@@ -35,6 +35,8 @@ namespace DatabaseFirst.Controllers
                 await _context.Students.AddAsync(student);
                 await _context.SaveChangesAsync();
 
+                TempData["success_message"] = "Record inserted successfully";
+
                 return RedirectToAction("Index");
             }
 
@@ -42,12 +44,42 @@ namespace DatabaseFirst.Controllers
 
         }
 
-        //public async Task<IActionResult> EditStudent(int id)
-        //{
-        //    var studentData = await _context.Students.ToListAsync();
-        //    return View(studentData);
-        //}
-        public async Task<IActionResult> DeleteStudent(int id)
+        public async Task<IActionResult> EditStudent(int? id)
+        {
+            if (id == null || _context.Students == null)
+            {
+                return NotFound();
+            }
+            var student = await _context.Students.FindAsync(id);
+            
+            if (student == null)
+            {
+                return NotFound();
+            }
+
+            return View(student);
+
+
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> EditStudent(int? id, Student student)
+        {
+            if(id != student.StudentId)
+            {
+                return NotFound();
+            }
+            if (ModelState.IsValid)
+            {
+                _context.Students.Update(student);
+                await _context.SaveChangesAsync();
+
+                return RedirectToAction("Index");
+            }
+
+            return View(student);
+        }
+        public async Task<IActionResult> DeleteStudent(int? id)
         {
             var student = await _context.Students.FindAsync(id);
 
