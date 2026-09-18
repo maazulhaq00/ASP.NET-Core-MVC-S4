@@ -1,12 +1,13 @@
-﻿@model Student
+﻿@model StudentViewModel
 
 @{
+    
 }
 
 <div class="container">
     <h1 class="display-4">Add Student</h1>
 
-    <form method="post" asp-controller="Home" asp-action="AddStudent" >
+    <form method="post" asp-controller="Home" asp-action="AddStudent" enctype="multipart/form-data" >
       
 
         <div class="mb-3">
@@ -23,6 +24,11 @@
             <label class="form-label" asp-for="StudentEmail"></label>
             <input class="form-control" asp-for="StudentEmail">
             <span asp-validation-for="StudentEmail" style="color: red;"></span>
+        </div>
+        <div class="mb-3">
+            <label class="form-label" asp-for="StudentImage"></label>
+            <input class="form-control" asp-for="StudentImage">
+            <span asp-validation-for="StudentImage" style="color: red;"></span>
         </div>
 
         <button type="submit" class="btn btn-dark" >Add</button>

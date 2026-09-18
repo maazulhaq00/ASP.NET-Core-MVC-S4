@@ -6,14 +6,14 @@ namespace DatabaseFirst.Models;
 
 public partial class Student
 {
+    
     public int StudentId { get; set; }
 
-    [Required]
     public string StudentName { get; set; } = null!;
 
-    [Required]
-    public int? StudentAge { get; set; }
+    public int StudentAge { get; set; }
 
-    [Required]
     public string StudentEmail { get; set; } = null!;
+
+    public string? StudentImage { get; set; }
 }

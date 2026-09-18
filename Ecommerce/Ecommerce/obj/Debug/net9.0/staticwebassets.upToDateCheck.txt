@@ -1,0 +1,277 @@
+wwwroot\assetsWeb\css\bootstrap.min.css
+wwwroot\assetsWeb\css\elegant-icons.css
+wwwroot\assetsWeb\css\font-awesome.min.css
+wwwroot\assetsWeb\css\magnific-popup.css
+wwwroot\assetsWeb\css\nice-select.css
+wwwroot\assetsWeb\css\owl.carousel.min.css
+wwwroot\assetsWeb\css\slicknav.min.css
+wwwroot\assetsWeb\css\style.css
+wwwroot\assetsWeb\css\style.css.map
+wwwroot\assetsWeb\fonts\ElegantIcons.eot
+wwwroot\assetsWeb\fonts\ElegantIcons.svg
+wwwroot\assetsWeb\fonts\ElegantIcons.ttf
+wwwroot\assetsWeb\fonts\ElegantIcons.woff
+wwwroot\assetsWeb\fonts\fontawesome-webfont.eot
+wwwroot\assetsWeb\fonts\fontawesome-webfont.svg
+wwwroot\assetsWeb\fonts\fontawesome-webfont.ttf
+wwwroot\assetsWeb\fonts\fontawesome-webfont.woff
+wwwroot\assetsWeb\fonts\fontawesome-webfont.woff2
+wwwroot\assetsWeb\fonts\FontAwesome.otf
+wwwroot\assetsWeb\img\about\about-us.jpg
+wwwroot\assetsWeb\img\about\team-1.jpg
+wwwroot\assetsWeb\img\about\team-2.jpg
+wwwroot\assetsWeb\img\about\team-3.jpg
+wwwroot\assetsWeb\img\about\team-4.jpg
+wwwroot\assetsWeb\img\about\testimonial-author.jpg
+wwwroot\assetsWeb\img\about\testimonial-pic.jpg
+wwwroot\assetsWeb\img\banner\banner-1.jpg
+wwwroot\assetsWeb\img\banner\banner-2.jpg
+wwwroot\assetsWeb\img\banner\banner-3.jpg
+wwwroot\assetsWeb\img\blog\blog-1.jpg
+wwwroot\assetsWeb\img\blog\blog-2.jpg
+wwwroot\assetsWeb\img\blog\blog-3.jpg
+wwwroot\assetsWeb\img\blog\blog-4.jpg
+wwwroot\assetsWeb\img\blog\blog-5.jpg
+wwwroot\assetsWeb\img\blog\blog-6.jpg
+wwwroot\assetsWeb\img\blog\blog-7.jpg
+wwwroot\assetsWeb\img\blog\blog-8.jpg
+wwwroot\assetsWeb\img\blog\blog-9.jpg
+wwwroot\assetsWeb\img\blog\details\blog-author.jpg
+wwwroot\assetsWeb\img\blog\details\blog-details.jpg
+wwwroot\assetsWeb\img\breadcrumb-bg.jpg
+wwwroot\assetsWeb\img\clients\client-1.png
+wwwroot\assetsWeb\img\clients\client-2.png
+wwwroot\assetsWeb\img\clients\client-3.png
+wwwroot\assetsWeb\img\clients\client-4.png
+wwwroot\assetsWeb\img\clients\client-5.png
+wwwroot\assetsWeb\img\clients\client-6.png
+wwwroot\assetsWeb\img\clients\client-7.png
+wwwroot\assetsWeb\img\clients\client-8.png
+wwwroot\assetsWeb\img\footer-logo.png
+wwwroot\assetsWeb\img\hero\hero-1.jpg
+wwwroot\assetsWeb\img\hero\hero-2.jpg
+wwwroot\assetsWeb\img\icon\calendar.png
+wwwroot\assetsWeb\img\icon\cart.png
+wwwroot\assetsWeb\img\icon\compare.png
+wwwroot\assetsWeb\img\icon\heart.png
+wwwroot\assetsWeb\img\icon\search.png
+wwwroot\assetsWeb\img\instagram\instagram-1.jpg
+wwwroot\assetsWeb\img\instagram\instagram-2.jpg
+wwwroot\assetsWeb\img\instagram\instagram-3.jpg
+wwwroot\assetsWeb\img\instagram\instagram-4.jpg
+wwwroot\assetsWeb\img\instagram\instagram-5.jpg
+wwwroot\assetsWeb\img\instagram\instagram-6.jpg
+wwwroot\assetsWeb\img\logo.png
+wwwroot\assetsWeb\img\payment.png
+wwwroot\assetsWeb\img\product-sale.png
+wwwroot\assetsWeb\img\product\product-1.jpg
+wwwroot\assetsWeb\img\product\product-10.jpg
+wwwroot\assetsWeb\img\product\product-11.jpg
+wwwroot\assetsWeb\img\product\product-12.jpg
+wwwroot\assetsWeb\img\product\product-13.jpg
+wwwroot\assetsWeb\img\product\product-14.jpg
+wwwroot\assetsWeb\img\product\product-2.jpg
+wwwroot\assetsWeb\img\product\product-3.jpg
+wwwroot\assetsWeb\img\product\product-4.jpg
+wwwroot\assetsWeb\img\product\product-5.jpg
+wwwroot\assetsWeb\img\product\product-6.jpg
+wwwroot\assetsWeb\img\product\product-7.jpg
+wwwroot\assetsWeb\img\product\product-8.jpg
+wwwroot\assetsWeb\img\product\product-9.jpg
+wwwroot\assetsWeb\img\shop-details\details-payment.png
+wwwroot\assetsWeb\img\shop-details\product-big-2.png
+wwwroot\assetsWeb\img\shop-details\product-big-3.png
+wwwroot\assetsWeb\img\shop-details\product-big-4.png
+wwwroot\assetsWeb\img\shop-details\product-big.png
+wwwroot\assetsWeb\img\shop-details\thumb-1.png
+wwwroot\assetsWeb\img\shop-details\thumb-2.png
+wwwroot\assetsWeb\img\shop-details\thumb-3.png
+wwwroot\assetsWeb\img\shop-details\thumb-4.png
+wwwroot\assetsWeb\img\shopping-cart\cart-1.jpg
+wwwroot\assetsWeb\img\shopping-cart\cart-2.jpg
+wwwroot\assetsWeb\img\shopping-cart\cart-3.jpg
+wwwroot\assetsWeb\img\shopping-cart\cart-4.jpg
+wwwroot\assetsWeb\js\bootstrap.min.js
+wwwroot\assetsWeb\js\jquery-3.3.1.min.js
+wwwroot\assetsWeb\js\jquery.countdown.min.js
+wwwroot\assetsWeb\js\jquery.magnific-popup.min.js
+wwwroot\assetsWeb\js\jquery.nice-select.min.js
+wwwroot\assetsWeb\js\jquery.nicescroll.min.js
+wwwroot\assetsWeb\js\jquery.slicknav.js
+wwwroot\assetsWeb\js\main.js
+wwwroot\assetsWeb\js\mixitup.min.js
+wwwroot\assetsWeb\js\owl.carousel.min.js
+wwwroot\assetsWeb\sass\style.scss
+wwwroot\assetsWeb\sass\_about.scss
+wwwroot\assetsWeb\sass\_base.scss
+wwwroot\assetsWeb\sass\_blog-details.scss
+wwwroot\assetsWeb\sass\_blog-sidebar.scss
+wwwroot\assetsWeb\sass\_blog.scss
+wwwroot\assetsWeb\sass\_breadcrumb.scss
+wwwroot\assetsWeb\sass\_checkout.scss
+wwwroot\assetsWeb\sass\_contact.scss
+wwwroot\assetsWeb\sass\_footer.scss
+wwwroot\assetsWeb\sass\_header.scss
+wwwroot\assetsWeb\sass\_hero.scss
+wwwroot\assetsWeb\sass\_home-page.scss
+wwwroot\assetsWeb\sass\_mixins.scss
+wwwroot\assetsWeb\sass\_product.scss
+wwwroot\assetsWeb\sass\_responsive.scss
+wwwroot\assetsWeb\sass\_shop-details.scss
+wwwroot\assetsWeb\sass\_shop.scss
+wwwroot\assetsWeb\sass\_shopping-cart.scss
+wwwroot\assetsWeb\sass\_variable.scss
+wwwroot\assetsWeb\Source\bootstrap-4.2.1-dist.zip
+wwwroot\assetsWeb\Source\elegant_font.zip
+wwwroot\assetsWeb\Source\font-awesome-4.7.0.zip
+wwwroot\assetsWeb\Source\jquery-nice-select-1.1.0.zip
+wwwroot\assetsWeb\Source\Magnific-Popup-master.zip
+wwwroot\assetsWeb\Source\OwlCarousel2-2.3.4.zip
+wwwroot\assetsWeb\Source\SlickNav-master.zip
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\bootstrap.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\elegant-icons.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\font-awesome.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\magnific-popup.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\nice-select.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\owl.carousel.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\slicknav.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\style.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\css\style.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\fonts\ElegantIcons.svg
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\fonts\fontawesome-webfont.svg
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\fonts\FontAwesome.otf
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\bootstrap.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\jquery-3.3.1.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\jquery.countdown.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\jquery.magnific-popup.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\jquery.nice-select.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\jquery.nicescroll.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\jquery.slicknav.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\main.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\mixitup.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\assetsWeb\js\owl.carousel.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\css\site.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\favicon.ico
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\js\site.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery-validation\dist\additional-methods.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery-validation\LICENSE.md
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery\dist\jquery.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery\dist\jquery.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery\dist\jquery.min.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery\dist\jquery.slim.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery\dist\jquery.slim.min.js
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery\dist\jquery.slim.min.map
+S:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\Ecommerce\Ecommerce\wwwroot\lib\jquery\LICENSE.txt

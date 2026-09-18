@@ -30,6 +30,9 @@ public partial class SchoolDbContext : DbContext
             entity.Property(e => e.StudentEmail)
                 .HasMaxLength(255)
                 .IsUnicode(false);
+            entity.Property(e => e.StudentImage)
+                .HasMaxLength(255)
+                .IsUnicode(false);
             entity.Property(e => e.StudentName)
                 .HasMaxLength(255)
                 .IsUnicode(false);

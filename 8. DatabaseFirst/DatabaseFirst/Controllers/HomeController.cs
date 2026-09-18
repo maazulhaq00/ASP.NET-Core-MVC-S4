@@ -2,6 +2,7 @@ using System.Diagnostics;
 using DatabaseFirst.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace DatabaseFirst.Controllers
 {
@@ -9,11 +10,13 @@ namespace DatabaseFirst.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly SchoolDbContext _context;
+        IWebHostEnvironment env;
 
-        public HomeController(ILogger<HomeController> logger, SchoolDbContext context)
+        public HomeController(ILogger<HomeController> logger, SchoolDbContext context, IWebHostEnvironment env)
         {
             _logger = logger;
             _context = context;
+            this.env = env;
         }
 
         public async Task<IActionResult> Index()
@@ -28,16 +31,37 @@ namespace DatabaseFirst.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddStudent(Student student)
+        public async Task<IActionResult> AddStudent(StudentViewModel student)
         {
-            if (ModelState.IsValid)
+
+            if(ModelState.IsValid)
             {
-                await _context.Students.AddAsync(student);
+                string fileName = "";
+
+                if(student.StudentImage != null)
+                {
+                    string folderName = Path.Combine(env.WebRootPath, "images");
+                    fileName = Guid.NewGuid().ToString() + "_" + student.StudentImage.FileName;
+                    string filePath = Path.Combine(folderName, fileName);
+
+                    student.StudentImage.CopyTo(new FileStream(filePath, FileMode.Create));
+                }
+
+                Student s1 = new Student
+                {
+                    StudentName = student.StudentName,
+                    StudentAge = student.StudentAge,
+                    StudentEmail = student.StudentEmail,
+                    StudentImage = fileName
+                };
+
+                await _context.Students.AddAsync(s1);
                 await _context.SaveChangesAsync();
 
                 TempData["success_message"] = "Record inserted successfully";
 
                 return RedirectToAction("Index");
+
             }
 
             return View(student);
@@ -74,6 +98,8 @@ namespace DatabaseFirst.Controllers
                 _context.Students.Update(student);
                 await _context.SaveChangesAsync();
 
+                TempData["success_message"] = "Record updated successfully";
+
                 return RedirectToAction("Index");
             }
 
@@ -86,6 +112,9 @@ namespace DatabaseFirst.Controllers
             if(student != null)
             {
                 _context.Students.Remove(student);
+
+                TempData["success_message"] = "Record deleted successfully";
+
             }
             await _context.SaveChangesAsync();
             return RedirectToAction("Index");

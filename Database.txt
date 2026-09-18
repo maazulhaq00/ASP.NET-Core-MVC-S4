@@ -34,3 +34,13 @@ INSERT INTO Students(StudentName, StudentAge, StudentEmail) VALUES ('Muhammad', 
 ====================================> AFTER CHANGES IN DB STRUCTURE
 
 Scaffold-DbContext "Server=LAB21-10; Initial Catalog=SchoolDB; User Id=sa; Password=aptech; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
+
+
+===================================>
+
+USE SchoolDB;
+
+SELECT * FROM Students;
+
+ALTER TABLE Students
+ADD StudentImage VARCHAR(255)
