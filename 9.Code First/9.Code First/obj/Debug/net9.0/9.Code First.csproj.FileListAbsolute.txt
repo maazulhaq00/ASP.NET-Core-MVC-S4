@@ -1,0 +1,231 @@
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\appsettings.Development.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\appsettings.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\9.Code First.staticwebassets.runtime.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\9.Code First.staticwebassets.endpoints.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\9.Code First.exe
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\9.Code First.deps.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\9.Code First.runtimeconfig.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\9.Code First.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\9.Code First.pdb
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Azure.Core.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Azure.Identity.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Humanizer.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\Mono.TextTemplating.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.ClientModel.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.CodeDom.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Composition.Convention.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Composition.Hosting.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Composition.Runtime.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Composition.TypedParts.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Drawing.Common.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Memory.Data.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Runtime.Caching.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Security.Permissions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Text.Json.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\System.Windows.Extensions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.csproj.AssemblyReference.cache
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\rpswa.dswa.cache.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.AssemblyInfoInputs.cache
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.AssemblyInfo.cs
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.csproj.CoreCompileInputs.cache
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.MvcApplicationPartsAssemblyInfo.cache
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.RazorAssemblyInfo.cache
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.RazorAssemblyInfo.cs
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.sourcelink.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\rjimswa.dswa.cache.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\scopedcss\bundle\9.Code First.styles.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\scopedcss\projectbundle\9.Code First.bundle.scp.css
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\1b96nqo2s2-b9sayid5wm.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\ghjmup6fmh-61n19gt1b8.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\y1kbntj80q-xtxxf3hu2r.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\t4949jd1pw-bqjiyaj88i.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\jntapb3owm-c2jlpeoesf.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\3s6vh65ysi-erw9l3u2r3.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\5p8nnu64el-aexeepp0ev.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\km4eal35qw-d7shbmvgxk.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\dylt7i8my6-ausgxo2sd3.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\wrgej9yfct-k8d9w2qqmf.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\07caodbegx-cosvhxvwiu.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\w8cat3l8wz-ub07r2b239.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\efa61mdyy5-fvhpjtyr6v.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\4roagpxvlm-b7pk76d08c.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\8ozgp1g30j-fsbi9cje9m.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\nrtzolet6d-rzd6atqjts.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\tw7tlsnexq-ee0r1s7dh0.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\po19g2e1ex-dxx9fxp4il.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\p3d9yx9n3e-jd9uben2k1.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\f1z3u7mtlf-khv3u5hwcm.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\v96cwcg06w-r4e9w2rdcm.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\1yopwrzwr3-lcd1t2u6c8.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\f2pe7ptyk1-c2oey78nd0.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\25qigbst84-tdbxkamptv.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\txxcrvd44n-j5mq2jizvt.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\1l32l2n3v7-06098lyss8.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\oyvgz4cvtm-nvvlpmu67g.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\ollei6d3be-s35ty4nyc5.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\sowhpwi0eu-pj5nd1wqec.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\jlmonb30y2-46ein0sx1k.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\knzeunupks-v0zj4ognzu.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\w5maofgogs-37tfw0ft22.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\fn3kgngt6z-hrwsygsryq.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\mme8n3lj1n-pk9g2wxc8p.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\yd8bqf997y-ft3s53vfgj.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\fomdplbwh2-6cfz1n2cew.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\hnarlnpgew-6pdc2jztkx.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\e9de3nh44l-493y06b0oq.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\6k3vlh7631-iovd86k7lj.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\nx0lbxl3dp-vr1egmr9el.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\2dklan9rhf-kbrnm935zg.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\jh843gpcls-jj8uyg4cgr.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\rjl6hwco2h-y7v9cxd14o.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\cj5ke5vg6j-notf2xhcfb.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\vjssxthqbt-h1s4sie4z3.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\bv63gym9tj-63fj8s7r0e.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\18tu1gj2g0-0j3bgjxly4.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\8tx72023ze-47otxtyo56.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\8rp3nlkxs5-4v8eqarkd7.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\bp1oqfboej-356vix0kms.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\068b2zou9q-83jwlth58m.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\3pu8i76pik-mrlpezrjn3.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\kvbz0g69hw-lzl9nlhx6b.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\73w883gzoi-ag7o75518u.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\u2ru5e291e-x0q3zqp4vz.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\jp63w3tr7z-0i3buxo5is.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\whojhykg8e-o1o13a6vjx.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\k8lvats915-ttgo8qnofa.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\j33ujshgj7-2z0ns9nrw6.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\v9uibddd2b-muycvpuwrr.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\067u4usneg-87fc7y1x7t.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\2jhjb3133c-mlv21k5csn.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\zev1lwvml1-8g0wjtmac9.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\compressed\5adbc8ue7j-8g0wjtmac9.gz
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\staticwebassets.build.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\staticwebassets.build.json.cache
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\staticwebassets.development.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code F.CA7B3B9B.Up2Date
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\refint\9.Code First.dll
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.pdb
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\9.Code First.genruntimeconfig.cache
+Z:\Semester 03 (AI)\ASP.NET CORE MVC\2505E3\9.Code First\9.Code First\obj\Debug\net9.0\ref\9.Code First.dll

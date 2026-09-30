@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Migrations\\20260930112117_EcommDbAndCatTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:9.Code First\\Migrations\\20260930112117_EcommDbAndCatTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260930112117_EcommDbAndCatTable.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Migrations\\20260930112117_EcommDbAndCatTable.cs",
+              "RelativeDocumentMoniker": "9.Code First\\Migrations\\20260930112117_EcommDbAndCatTable.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Migrations\\20260930112117_EcommDbAndCatTable.cs",
+              "RelativeToolTip": "9.Code First\\Migrations\\20260930112117_EcommDbAndCatTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:21:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Program.cs",
+              "RelativeDocumentMoniker": "9.Code First\\Program.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Program.cs",
+              "RelativeToolTip": "9.Code First\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:16:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "9.Code First\\Models\\AppDbContext.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "9.Code First\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:11:50.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\appsettings.json",
+              "RelativeDocumentMoniker": "9.Code First\\appsettings.json",
+              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\appsettings.json",
+              "RelativeToolTip": "9.Code First\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T11:11:27.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "9.Code First\\Models\\Category.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Models\\Category.cs",
+              "RelativeToolTip": "9.Code First\\Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T10:29:40.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
