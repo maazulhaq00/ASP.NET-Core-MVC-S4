@@ -11,25 +11,21 @@ namespace DatabaseFirst.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly SchoolDbContext _context;
         IWebHostEnvironment env;
-
         public HomeController(ILogger<HomeController> logger, SchoolDbContext context, IWebHostEnvironment env)
         {
             _logger = logger;
             _context = context;
             this.env = env;
         }
-
         public async Task<IActionResult> Index()
         {
             var studentData = await _context.Students.ToListAsync();
             return View(studentData);
         }
-
         public IActionResult AddStudent()
         {
             return View();
         }
-
         [HttpPost]
         public async Task<IActionResult> AddStudent(StudentViewModel student)
         {
@@ -61,11 +57,8 @@ namespace DatabaseFirst.Controllers
                 TempData["success_message"] = "Record inserted successfully";
 
                 return RedirectToAction("Index");
-
             }
-
             return View(student);
-
         }
 
         public async Task<IActionResult> EditStudent(int? id)

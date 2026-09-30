@@ -19,6 +19,7 @@
     <thead>
         <tr>
             <th scope="col">#</th>
+            <th scope="col">Student Image</th>
             <th scope="col">Student Name</th>
             <th scope="col">Age</th>
             <th scope="col">Email</th>
@@ -31,6 +32,9 @@
         {
             <tr>
                 <th scope="row">@s.StudentId</th>
+                <td>
+                    <img src="~/images/@s.StudentImage" alt="Alternate Text" width="200" />
+                </td>
                 <td>@s.StudentName</td>
                 <td>@s.StudentAge</td>
                 <td>@s.StudentEmail</td>
