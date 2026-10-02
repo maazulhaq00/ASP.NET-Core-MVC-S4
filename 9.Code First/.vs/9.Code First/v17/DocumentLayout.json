@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|z:\\semester 03 (ai)\\asp.net core mvc\\2505e3\\9.code first\\9.code first\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{719AEB23-81B3-4A2D-A2CD-CDB90AE5884F}|9.Code First\\9.Code First.csproj|solutionrelative:9.code first\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,64 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 264,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Program.cs",
-              "RelativeDocumentMoniker": "9.Code First\\Program.cs",
-              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Program.cs",
-              "RelativeToolTip": "9.Code First\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T11:16:31.116Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "9.Code First\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "9.Code First\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T10:43:01.977Z",
               "EditorCaption": ""
             },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "9.Code First\\Models\\AppDbContext.cs",
-              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "9.Code First\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T11:11:50.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "9.Code First\\Models\\Category.cs",
-              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Models\\Category.cs",
-              "RelativeToolTip": "9.Code First\\Models\\Category.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T10:29:40.862Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 136,
-          "SelectedChildIndex": 0,
-          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\appsettings.json",
-              "RelativeDocumentMoniker": "9.Code First\\appsettings.json",
-              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\appsettings.json",
-              "RelativeToolTip": "9.Code First\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-30T11:11:27.862Z",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "9.Code First\\Controllers\\CategoriesController.cs",
+              "ToolTip": "Z:\\Semester 03 (AI)\\ASP.NET CORE MVC\\2505E3\\9.Code First\\9.Code First\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "9.Code First\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T10:36:33.028Z",
               "EditorCaption": ""
             }
           ]

@@ -2,6 +2,7 @@ using _9.Code_First.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("AppDbContext") ?? throw new InvalidOperationException("Connection string 'AppDbContext' not found.");
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
